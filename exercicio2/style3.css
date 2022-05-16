@@ -1,0 +1,18 @@
+.post-container .date{
+    font-family: 'Roboto', cursive;
+    color: #008080;
+}
+.post-content{
+    font-family: 'Open Sans', cursive;
+}
+h1{
+    font-family: 'Montserrat', cursive;
+}
+.post{
+    background-color: #fffafa;
+}
+.post-container{
+    height: 100%;
+    width: 70%;
+    margin: 0px auto 0px auto;
+}
